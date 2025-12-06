@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int number=0;
-    cout << "Hello, World! Feature" << endl;
+    cout << "Hello, World! sa Dev nga update" << endl;
     cin >> number;
     cout << "You entered: " << number << endl;
     if(number % 2 == 0){
